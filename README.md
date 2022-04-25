@@ -15,3 +15,13 @@ Practicing TDD with xUnit in .NET
   </br>
   <Video de apoio>
   https://www.youtube.com/watch?v=pLrsy-ookXQ (GitHub código: https://github.com/angelitocsg/coding-live-005)
+  
+  <Linha de comando>
+    dotnet teste
+    
+    <TDD>
+      TDD = Test Driven Development
+      Consiste em 3 etapas:
+      Red(Falhar): O que desejo testar - Etapa que falhamos o teste "propositalmente", fazendo só a casa.
+      Green(Corrigir): Como deve ver - Correção do erro do teste 
+      Refactor(Melhorar): Revisar o código - E melhorar a execução dos testes
