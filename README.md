@@ -10,7 +10,8 @@ Practicing TDD with xUnit in .NET
 [Theory] > Testando teorias (Usually numbers)
   
   
-  
-  
+  </br>
+  </br>
+  </br>  
   <Verificando os testes> 
     Teste > Gerenciador de testes (ctrl e + t)
