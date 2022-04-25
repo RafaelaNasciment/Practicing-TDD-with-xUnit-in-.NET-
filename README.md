@@ -8,10 +8,7 @@ Practicing TDD with xUnit in .NET
 
 [Fact] > Testando fatos (Usually true or false)
 [Theory] > Testando teorias (Usually numbers)
-  
-  
-  </br>
-  </br>
+
   </br>  
   <Verificando os testes> 
     Teste > Gerenciador de testes (ctrl e + t)
