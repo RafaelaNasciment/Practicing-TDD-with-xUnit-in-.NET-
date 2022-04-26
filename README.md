@@ -10,6 +10,9 @@ Practicing TDD with xUnit in .NET
 [Fact(DisplayName = "Nome que desejo referenciar ao chamar o teste, example: Testando o método maior de idade | Deve retornar true")]
 
 [Fact] > Testando fatos (Usually true or false)
+
+  //Testando filtrando por método
+  dotnet test -v n --filter nome do metodo
   
   '>>>>> THEORY <<<<<
 [Theory] > Testando teorias (Usually numbers) - Teste de uma massa de dados, pode ser informada linha a linha ou por listas
